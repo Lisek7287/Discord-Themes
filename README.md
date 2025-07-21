@@ -47,7 +47,7 @@ Themes will apply instantly and give your mobile Discord a brand new vibe.
 
 ## 🎯 Purpose of This Repo
 
-- Provide cross-platform Discord customization (PC + Android)
+- Provide cross-platform Discord customization (PC + Phone)
 - Share ready-to-use themes with no coding required
 - Inspire others to express themselves visually
 
