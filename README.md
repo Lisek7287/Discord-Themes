@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Assets/profile.png" width="120" alt="Profile Picture">
+  <img src="./Assets/Profile.png" width="120" alt="Profile Picture">
 </p>
 
 # 🎨 Discord Themes by Lisek7287
