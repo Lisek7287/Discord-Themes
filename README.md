@@ -13,8 +13,8 @@ These aren't just color tweaks — they’re full interface makeovers, built to 
 
 ## ✨ What's Included?
 
-- 🎨 **Full CSS themes** – for BetterDiscord on desktop
-- 📱 **JSON themes** – for Revenge on Android
+- 🎨 **Full CSS themes** – for Vencord on desktop
+- 📱 **JSON themes** – for Revenge on Phone
 - 🖼️ **Custom backgrounds** – easy to change
 - 📷 **Preview screenshots**
 - 📚 Easy-to-follow customization instructions
@@ -22,22 +22,23 @@ These aren't just color tweaks — they’re full interface makeovers, built to 
 
 ---
 
-## 📱 Android Support (Revenge)
+## 📱 Phone Support (Revenge)
 
-If you’re using the **Revenge** app on Android:
-- Copy link to any `.json` theme
-- Open `Revenge` app
-- In settings open `Theme`
-- Tap `"Import Theme"` and past link
+If you’re using the **Revenge** app on Phone:
+1. Copy link to any `.json` theme
+2. Open `Revenge` app
+3. In settings open `Themes`
+4. Tap `"+" button` and past link
+5. `Select` theme you want
 
 Themes will apply instantly and give your mobile Discord a brand new vibe.
 
 ---
 
-## 💻 Using CSS Themes with BetterDiscord
+## 💻 Using CSS Themes with Vencord
 
 1. Install [Vencord](https://vencord.dev/)
-2. Download any `.theme.css` file from the `themes` folder
+2. Download any `.theme.css` file from the `Pc` folder
 3. Paste it into Vencord theme folder  
    (usually `C:\Users\user\AppData\Roaming\Vencord\themes`)
 4. Open Discord → go to Settings → Themes → Enable your theme
