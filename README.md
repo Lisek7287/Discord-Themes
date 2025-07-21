@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Assets/Profile.png" width="120" alt="Profile Picture">
+  <img src="./Assets/Profile.gif" width="120" alt="Profile Picture">
 </p>
 
 # 🎨 Discord Themes by Lisek7287
@@ -54,8 +54,7 @@ Themes will apply instantly and give your mobile Discord a brand new vibe.
 
 ## ⚠️ Disclaimer
 
-> ❗ These themes are made for **personal use only**.  
-> Using custom themes is not officially supported by Discord — use at your own risk.
+> ❗ Using custom themes is not officially supported by Discord — **use at your own risk**.
 
 ---
 
