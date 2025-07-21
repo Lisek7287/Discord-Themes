@@ -5,7 +5,7 @@
 # 🎨 Discord Themes by Lisek7287
 
 Welcome to my colorful collection of custom-made Discord themes!  
-This repository includes **custom CSS and JSON themes** designed for both **Vencord (PC)** and **Revenge (Android)**, giving you full control over the look and feel of your Discord experience.
+This repository includes **custom CSS and JSON themes** designed for both **Vencord (PC)** and **Revenge (Phone)**, giving you full control over the look and feel of your Discord experience.
 
 These aren't just color tweaks — they’re full interface makeovers, built to transform Discord into something personal, aesthetic, and exciting. Whether you're looking for warm orange glows, transparent glass effects, or layout changes inspired by popular UIs — it’s all here.
 
