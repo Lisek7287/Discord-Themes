@@ -7,7 +7,7 @@
             "id": "619474349845643275"
         }
     ],
-    "main": "src/readall.ts",
+    "main": "src/readall.js",
     "vendetta": {
         "icon": "ChatAlertIcon"
     }
