@@ -1,0 +1,14 @@
+{
+    "name": "ReadAll",
+    "description": "Adds button to read all messages.",
+    "authors": [
+        {
+            "name": "Lisek7287",
+            "id": "619474349845643275"
+        }
+    ],
+    "main": "src/readall.js",
+    "vendetta": {
+        "icon": "ChatAlertIcon"
+    }
+}
